@@ -1,0 +1,6 @@
+{
+  "name": "Comic Reader",
+  "description": "A sleek and responsive CBR and CBZ comic book reader with local file support, double-page spreads, continuous scroll, visual enhancements, and reading progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
